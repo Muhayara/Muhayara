@@ -1,5 +1,5 @@
 # 💫 About Me:
-Halo, saya Muhayara! 👋<br><br>seorang mahasiswa Teknik Komputer yang tertarik pada Python dan Linux.<br><br>- 🔭 Sedang belajar: Web Development dan System Administration<br>- 💻 OS Sehari-hari: Arch Linux<br>- 🌱 Tertarik dengan: Open Source dan Pemrograman Python
+Halo, saya Muhayara! 👋<br><br>Computer Engineering Student | Python Enthusiast | Linux User<br><br>- 🔭 Mendalami: Web Development & SysAdmin<br>- 💻 Lingkungan Kerja: Arch Linux<br>- 🌱 Kontribusi: Open Source & Software Engineering
 
 
 ## 🌐 Socials:
