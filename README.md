@@ -1,5 +1,5 @@
 # 💫 About Me:
-Halo, saya Muhayara! 👋<br><br>Computer Engineering Student | Python Enthusiast | Linux User<br><br>- 🔭 Mendalami: Web Development & ---<br>- 💻 Lingkungan Kerja: Linux<br>- 🌱 Kontribusi: Open Source & Software Engineering
+Halo, saya Muhayara! 👋<br><br>Computer Engineering Student | Python Enthusiast | Linux User<br><br>- 🔭 Mendalami: Web Development & ---- 🌱 Kontribusi: Open Source & Software Engineering
 
 
 ## 🌐 Socials:
